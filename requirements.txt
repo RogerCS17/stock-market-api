@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+psycopg2-binary
+python-dotenv
+yfinance
+scikit-learn
